@@ -64,4 +64,4 @@ Client
 7. Sockets are closed (can use with in python3)
 
 ## Output Example
-![Output](Output.jpg) <br />
+![Output](Output.JPG) <br />
